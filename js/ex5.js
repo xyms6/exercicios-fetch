@@ -1,4 +1,4 @@
-const API_KEY = 'a71feac18cfc45eab40185235252002';
+const API_KEY = '38d5e1a2045747d5920113329252502';
 
 async function obterPrevisao() {
     const cidade = document.getElementById('cidade').value;
